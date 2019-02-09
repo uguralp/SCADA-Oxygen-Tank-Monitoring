@@ -1,0 +1,12 @@
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\bin\Debug\Assignment3UguralpOnbasli.exe.config
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\bin\Debug\Assignment3UguralpOnbasli.exe
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\bin\Debug\Assignment3UguralpOnbasli.pdb
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.csprojResolveAssemblyReference.cache
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.Form1.resources
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.Properties.Resources.resources
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.csproj.GenerateResource.cache
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.csproj.CoreCompileInputs.cache
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.exe
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.pdb
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.Form3.resources
+C:\Users\Uguralp\Dropbox\Windows Files\UI\Assignment3UguralpOnbasli\Assignment3UguralpOnbasli\obj\Debug\Assignment3UguralpOnbasli.Form2.resources
