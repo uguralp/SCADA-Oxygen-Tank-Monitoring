@@ -14,7 +14,7 @@ Information button: It opens the information page. Information page gives an inf
 
 ![Image of Info](https://i.imgur.com/KeND2iy.png)
 
-Figure 2: Information Page
+*Figure 2: Information Page*
 
 Valve Monitoring: It shows the status of the valves.
 
@@ -68,3 +68,6 @@ The user cannot control the valve in these conditions:
 This checklist shows that how many mimic designs inspired my design from the SCADA Mimic Design Principles.
 
 ## Mimic Design Score: 10/16
+
+# Note: 
+This project was made for the UI Design Principles class.
